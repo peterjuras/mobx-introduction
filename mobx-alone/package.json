@@ -1,0 +1,15 @@
+{
+  "name": "mobx-alone",
+  "version": "0.0.1",
+  "description": "A sample of using MobX alone without React.",
+  "main": "mobx-alone.js",
+  "private": true,
+  "scripts": {
+    "start": "node mobx-alone"
+  },
+  "author": "Peter Juras <p.juras@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mobx": "3.0.0"
+  }
+}
